@@ -3083,7 +3083,7 @@ footer.colors-d.border-top {
 }
 .colors-e .background-solid,
 .colors-e.background-solid {
-  background-color: #ffffff;
+  background-color: #1f3b6a;
 }
 .colors-e .background-hard,
 .colors-e.background-hard {
@@ -3318,7 +3318,7 @@ a.colors-e:hover {
   color: #434343;
 }
 #top-nav.colors-e li a {
-  color: #434343;
+  color: #ffffff;
 }
 #top-nav.colors-e li a:hover {
   color: inherit;
@@ -3345,7 +3345,7 @@ a.colors-e:hover {
   background-color: rgba(255, 255, 255, 0.5023176);
 }
 #top-nav.colors-e .navbar-nav a.active {
-  color: #cb875f;
+  color: #ae1f23;
 }
 #top-nav.colors-e .navbar-toggle {
   background-color: transparent !important;
