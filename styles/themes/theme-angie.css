@@ -3321,7 +3321,7 @@ a.colors-e:hover {
   color: #ffffff;
 }
 #top-nav.colors-e li a:hover {
-  color: inherit;
+  color: #ae1f23;
 }
 #top-nav.colors-e .navbar-brand {
   color: #434343;
@@ -3355,13 +3355,13 @@ a.colors-e:hover {
   background-color: #434343;
 }
 .colors-e.page-border {
-  border-color: rgba(203, 135, 95, 0.16);
+  border-color: rgba(174, 31, 35, 0.16);
 }
 .colors-e.page-border a {
-  color: #434343;
+  color: #fff;
 }
 .ext-nav a.colors-e .side-title {
-  color: #434343;
+  color: #fff;
 }
 .ext-nav a.colors-e .side-label {
   color: #cb875f;
@@ -3380,7 +3380,7 @@ a.colors-e:hover {
 .colors-e .menu-toggle.navbar-toggle span,
 .colors-e .menu-toggle.navbar-toggle span:before,
 .colors-e .menu-toggle.navbar-toggle span:after {
-  background-color: #cb875f;
+  background-color: #fff;
 }
 .colors-e .menu-toggle.show span {
   background-color: transparent;
@@ -3462,21 +3462,21 @@ a.colors-e:hover {
   background-color: #ffffff;
 }
 #dot-scroll.colors-e li a span {
-  background-color: #434343;
+  background-color: #fff;
 }
 #dot-scroll.colors-e li a.active span,
 #dot-scroll.colors-e li a:hover.active span {
-  background-color: rgba(255, 255, 255, 0.88);
+  background-color: rgba(174, 31, 35, 0.88);
 }
 #dot-scroll.colors-e li a.target span,
 #dot-scroll.colors-e li a:hover.target span {
-  border-color: #434343;
+  border-color: #fff;
 }
 #dot-scroll.colors-e li a.active span,
 #dot-scroll.colors-e li a:hover.active span,
 #dot-scroll.colors-e li a.target.active span,
 #dot-scroll.colors-e li a:hover.target.active span {
-  border-color: #434343;
+  border-color: #fff;
 }
 .colors-e.skew.skew-bottom-left {
   border-bottom-color: transparent;

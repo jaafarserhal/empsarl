@@ -4172,6 +4172,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   line-height: 21px;
   height: 70px;
 }
+.navbar-brand .logo{
+  max-width: 120px;
+  height: auto;
+}
 .navbar-brand:hover,
 .navbar-brand:focus {
   text-decoration: none;
@@ -4242,6 +4246,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-nav .open .dropdown-menu > li > a:focus {
     background-image: none;
+  }
+  .navbar-brand .logo{
+    max-width: 50px;
   }
 }
 @media (min-width: 768px) {
@@ -6426,6 +6433,9 @@ button.close {
   th.visible-sm,
   td.visible-sm {
     display: table-cell !important;
+  }
+  .navbar-brand .logo{
+    max-width: 60px;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
