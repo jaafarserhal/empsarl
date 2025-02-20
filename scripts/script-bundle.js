@@ -1252,7 +1252,7 @@
                         }))
                     }
                 }), $items.click(function(a) {
-                    a.preventDefault(), openItem($(this))
+                    //a.preventDefault(), openItem($(this))
                 }), $overlayNext.click(function(a) {
                     if ($currentItem) {
                         a.preventDefault();
