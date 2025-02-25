@@ -79,7 +79,7 @@ Colors J
 }
 .colors-a .highlight,
 .colors-a.highlight {
-  color: #cb875f;
+  color: #1f3b6a;
 }
 .colors-a .background,
 .colors-a.background {
@@ -181,7 +181,7 @@ a.colors-a:hover {
 }
 .colors-a .background-highlight,
 .colors-a.background-highlight {
-  background-color: #cb875f !important;
+  background-color: #1f3b6a !important;
 }
 .colors-a .background-heading,
 .colors-a.background-heading {
@@ -3075,7 +3075,7 @@ footer.colors-d.border-top {
 }
 .colors-e .highlight,
 .colors-e.highlight {
-  color: #ae1f23;
+  color: #1f3b6a;
 }
 .colors-e .background,
 .colors-e.background {
@@ -3083,7 +3083,7 @@ footer.colors-d.border-top {
 }
 .colors-e .background-solid,
 .colors-e.background-solid {
-  background-color: #1f3b6a;
+  background-color: #fff;
 }
 .colors-e .background-hard,
 .colors-e.background-hard {
@@ -3318,7 +3318,7 @@ a.colors-e:hover {
   color: #434343;
 }
 #top-nav.colors-e li a {
-  color: #ffffff;
+  color: #1f3b6a;
 }
 #top-nav.colors-e li a:hover {
   color: #ae1f23;
@@ -3462,21 +3462,21 @@ a.colors-e:hover {
   background-color: #ffffff;
 }
 #dot-scroll.colors-e li a span {
-  background-color: #fff;
+  background-color:#1f3b6a;
 }
 #dot-scroll.colors-e li a.active span,
 #dot-scroll.colors-e li a:hover.active span {
-  background-color: rgba(174, 31, 35, 0.88);
+  background-color: rgba(31, 59, 106, 0.88);
 }
 #dot-scroll.colors-e li a.target span,
 #dot-scroll.colors-e li a:hover.target span {
-  border-color: #fff;
+  border-color: #1f3b6a;
 }
 #dot-scroll.colors-e li a.active span,
 #dot-scroll.colors-e li a:hover.active span,
 #dot-scroll.colors-e li a.target.active span,
 #dot-scroll.colors-e li a:hover.target.active span {
-  border-color: #fff;
+  border-color: #1f3b6a;
 }
 .colors-e.skew.skew-bottom-left {
   border-bottom-color: transparent;
@@ -4555,7 +4555,7 @@ footer.colors-f.border-top {
 ==================================================================*/
 .colors-g {
   color: #afafaf;
-  background-color: #212124;
+  background-color: #1f3b6a;
 }
 .colors-g .bg-color {
   color: #212124;
@@ -4573,7 +4573,7 @@ footer.colors-f.border-top {
 }
 .colors-g .highlight,
 .colors-g.highlight {
-  color: #cb875f;
+  color: #1f3b6a;
 }
 .colors-g .background,
 .colors-g.background {
@@ -5303,8 +5303,8 @@ footer.colors-g.border-top {
 8. Colors H / .colors-h, .heading-h, .highlight-h, ...
 ==================================================================*/
 .colors-h {
-  color: #efefef;
-  background-color: rgba(14, 14, 15, 0.85);
+  color: #ae1f23;
+  background-color: rgba(31, 59, 106, 0.85);
 }
 .colors-h .bg-color {
   color: #0e0e0f;
@@ -5826,7 +5826,7 @@ a.colors-h:hover {
   color: #cb875f;
 }
 .colors-h .slogan {
-  color: #cb875f;
+  color: #fff;
 }
 .colors-h .underline-dashed,
 .colors-h .underline-dotted {
@@ -5908,7 +5908,7 @@ footer.colors-h.border-top {
   color: #afafaf;
 }
 .colors-h input.button {
-  color: #cb875f;
+  color: #ae1f23;
 }
 .colors-h input.button:hover {
   color: #ffffff;
@@ -6283,4 +6283,3 @@ pre::-webkit-scrollbar-thumb,
   scrollbar-shadow-color: #333333;
   scrollbar-darkshadow-color: #333333;
 }
-

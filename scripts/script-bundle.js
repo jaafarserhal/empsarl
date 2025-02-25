@@ -1560,12 +1560,13 @@
                 var a = d(this);
                 a.slick({
                     autoplay: !0,
+                    autoplaySpeed: 3000,
                     dots: !0
                 })
             }), b.find(".carousel").each(function() {
                 var a = d(this);
                 a.slick({
-                    autoplay: !1,
+                    autoplay: !0,
                     dots: !0,
                     infinite: !0,
                     slidesToShow: 3,
