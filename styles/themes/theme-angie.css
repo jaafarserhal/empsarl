@@ -5306,6 +5306,9 @@ footer.colors-g.border-top {
   color: #ae1f23;
   background-color: rgba(31, 59, 106, 0.85);
 }
+.colors-h  em{
+  color: #fff!important;
+}
 .colors-h .bg-color {
   color: #0e0e0f;
 }

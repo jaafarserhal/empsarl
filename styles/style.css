@@ -4774,3 +4774,34 @@ html {
   left: auto;
 }
 
+.fluid-height-image{
+  height: 82.2px;
+}
+
+.centered-partners {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.mission-panel{
+  margin-bottom: 50px;
+}
+
+.image-container {
+  width: 120px; /* Adjust size as needed */
+  height: 120px;
+  border-radius: 50%;
+  border: 1px solid white; /* Circle border */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3d4047; /* Dark background */
+  margin: 0 auto;
+}
+
+.image-container img {
+  width: 50px; /* Adjust image size */
+  height: auto;
+  filter: invert(1); /* Make image white if it's a black icon */
+}
